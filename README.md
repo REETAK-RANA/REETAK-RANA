@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm Reetak rana</h1>
-<p>A passionate developer from india</p>
+<h1>Hey there 👋,  it's Reetak rana .</h1>
+<p> A passionate pyhton developer from india . 
+   Currently working upon my skills regarding python developer . </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
