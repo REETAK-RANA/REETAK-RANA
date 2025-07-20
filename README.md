@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">😁 About me</h2>
 
 ###
 
@@ -14,8 +14,17 @@
 
 ###
 
-<h2 align="left">Tools & Skills</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=REETAK-RANA.REETAK-RANA&"  />
+</div>
+
+###
 <br clear="both">
 
 <div align="center">
@@ -24,6 +33,11 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
+
+###
+
+<h2 align="left"> 🔥 MY STATS </h2>
+
 
 ###
 
