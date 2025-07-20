@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">😁 About me</h2>
+<h2 align="left">😁 About me :</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left"> 🔥 MY STATS </h2>
+<h2 align="left"> 🔥 MY STATS :</h2>
 
 
 ###
