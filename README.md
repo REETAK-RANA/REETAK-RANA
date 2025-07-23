@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Reetak Rana and I'm a passionate pyhton developer from india . Currently working upon my skills regarding python developer .</h4>
+<h4 align="left">My name is Reetak Rana and I'm a passionate pyhton developer from india . Currently working upon my skills regarding python developement .</h4>
 
 ###
 
