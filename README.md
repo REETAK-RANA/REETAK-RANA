@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Currently i am a student and aspiring programmer.<br>📚 I'm currently learning python .<br>🎯 Goals :  python developer .<br>🎲 Always curious to learn new tech and grow as a developer .</h4>
+<h4 align="left">✨ Currently i am a student and aspiring programmer .<br>📚 I'm currently learning python .<br>🎯 Goals :  python developer .<br>🎲 Always curious to learn new tech and grow as a developer .</h4>
 
 ###
 
