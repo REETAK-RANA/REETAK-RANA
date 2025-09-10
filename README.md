@@ -1,4 +1,4 @@
- <h2 align="center"> " Hey  everyone , it's Reetak Rana Here : " </h2>
+ <h2 align="center"> " Hey  everyone , it's Reetak Rana Here  " </h2>
 
 ###
 
